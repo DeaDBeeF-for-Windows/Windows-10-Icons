@@ -2,6 +2,8 @@
 
 ### Resolved symlinks for windows build
 
+### Includes some icons from GNOME Artwork: [Adwaita icon theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)
+
 ### Original repository: https://github.com/B00merang-Artwork/Windows-10
 
 ### Icon theme based on material from Windows 10
